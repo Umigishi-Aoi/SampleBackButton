@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SampleBackButton</string>
+    <string name="button">画面2へ移動</string>
+    <string name="text_view">画面2</string>
+</resources>
